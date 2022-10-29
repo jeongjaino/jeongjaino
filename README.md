@@ -7,7 +7,7 @@ I walk and work every day.
 
 
  <div align=center>
-  
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=akgk155)](https://solved.ac/akgk155)  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jeongjaino)](https://hits.seeyoufarm.com) 
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=akgk155)](https://solved.ac/akgk155)[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jeongjaino)](https://hits.seeyoufarm.com) 
 
 </div>

@@ -3,7 +3,8 @@
  
  # Hello, I'm JinHo👋
    
- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=akgk155)](https://solved.ac/akgk155) ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jeongjaino)
+ [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=akgk155)](https://solved.ac/akgk155)
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jeongjaino&count_bg=%2321B573&title_bg=%23A5CD39&icon=android.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
  <img src="https://gifdb.com/images/high/zootopia-nick-and-judy-fast-selfie-5zfd7ouw7ud9yov4.webp"/>
  

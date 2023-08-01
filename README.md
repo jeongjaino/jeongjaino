@@ -7,7 +7,6 @@
 
 ### Contact & Channel
 
-- Abount Me | [Notion](https://www.notion.so/e7ee56b963d24921a9fe7e681f71d970?pvs=4)
 - Phone | 010-5066-5199
 - Email | akgk155@gmail.com
 - Github | [https://github.com/jeongjaino](https://github.com/jeongjaino)

@@ -7,7 +7,7 @@
 
 ### Contact & Channel
 
-- Profile | [LinkedIn](https://www.linkedin.com/in/jeongjaino/)
+- Profile | [Notion](https://www.notion.so/e7ee56b963d24921a9fe7e681f71d970)
 - Email | akgk155@gmail.com
 - Github | [Github Profile](https://github.com/jeongjaino)
 - Blog | [Tech Blog](https://jeongjaino.tistory.com/)

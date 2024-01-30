@@ -3,11 +3,9 @@
 ### Introduction
 
 - 안녕하세요! 새로운 도전과 경험을 통해 성장하는 개발자, 정진호입니다.
-- 안드로이드 개발자를 꿈꾸고, 선한 영향력을 주는 개발자를 꿈꾸고 있습니다. 
 
 ### Contact & Channel
-
-- Profile | ~~[Notion](https://www.notion.so/e7ee56b963d24921a9fe7e681f71d970)~~
+- LinkedIn | https://www.linkedin.com/in/jeongjaino/
 - Email | akgk155@gmail.com
 - Github | [Github Profile](https://github.com/jeongjaino)
 - Blog | [Tech Blog](https://jeongjaino.tistory.com/)

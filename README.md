@@ -5,10 +5,14 @@
 - 안녕하세요! 새로운 도전과 경험을 통해 성장하는 개발자, 정진호입니다.
 
 ### Contact & Channel
-- LinkedIn | https://www.linkedin.com/in/jeongjaino/
-- Email | akgk155@gmail.com
-- Github | [Github Profile](https://github.com/jeongjaino)
-- Blog | [Tech Blog](https://jeongjaino.tistory.com/)
+
+<a href="https://jeongjaino.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-F05138?style=flat-square&logo=Tistory&logoColor=white&link=https://jeongjaino.tistory.com"/></a>
+<a href="https://www.instagram.com/jaino33"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jaino33"/></a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeongjaino)](https://www.linkedin.com/in/jeongjaino) 
+
+### Careers
+- [Cashwalk](https://github.com/cashwalk) Android Developer (2024.01 ~ )
+
 
 ### Projects
 

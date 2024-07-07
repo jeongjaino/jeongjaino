@@ -17,5 +17,5 @@
 - [WAPP](https://github.com/pknu-wap/WAPP) WAP 행사일정 알려드립니다! 와피 (2023.09 ~ 2024.04)
 - [HealthC](https://github.com/Solution-Challenge-HealthC/HealthC_Android) OCR과 객체인식을 활용한 알러지 예방 푸드 카메라, Health See (2023.01 ~ 2023.11)
 - [BeJuRyu](https://github.com/pknu-wap/2023_1_WAT_BeJuRyu) 오늘의 감정에 따라서 주류를 추천해드립니다! Be 주류 (2023.03 ~ 2023.06)
-- [WitT](https://github.com/pknu-wap/2022_2_WAP_APP_TEAM1) 다른 사람들과 함께 여행을 계획해요! With Trip (2022.09 ~ 2023.12)
+- [WitT](https://github.com/pknu-wap/2022_2_WAP_APP_TEAM1) 다른 사람들과 함께 여행을 계획해요! With Trip (2022.09 ~ 2022.12)
 

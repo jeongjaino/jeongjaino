@@ -1,4 +1,4 @@
-## 🥰 HellOOOOO I'm Jinho Jeong! <a href="https://hits.seeyoufarm.com"><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jeongjaino&count_bg=%2321B573&title_bg=%23555555&icon=android.svg&icon_color=%23A5CD39&title=hits&edge_flat=false"/></a>
+![image](https://github.com/user-attachments/assets/3047962d-9893-441e-a0aa-abefcb7ec458)## 🥰 HellOOOOO I'm Jinho Jeong! <a href="https://hits.seeyoufarm.com"><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jeongjaino&count_bg=%2321B573&title_bg=%23555555&icon=android.svg&icon_color=%23A5CD39&title=hits&edge_flat=false"/></a>
 - 적극적인 협업과 솔직한 소통을 중요하게 생각하며 업무에 임합니다.
 - 프로젝트에 책임감을 가지고, 지속적으로 유지보수하는 것을 좋아합니다. 
 - 새로운 기술에 관심이 많고, 이를 서비스에 적용하는 경험을 통해 배우는 것을 좋아합니다.
@@ -21,7 +21,7 @@
 
 <br/>
 
-<img src="https://github.com/user-attachments/assets/81638c50-c032-4628-86b3-80a992b2e621" width=60 /> [WAPP](https://github.com/pknu-wap/WAPP) <sub>(2023.09 ~ 2024.04)</sub>
+<img src="https://github.com/user-attachments/assets/9733f4ad-97e1-4d1f-bf5b-6bacb5d36fc5" width=60 /> [WAPP](https://github.com/pknu-wap/WAPP) <sub>(2023.09 ~ 2024.04)</sub>
 <br/>`동아리 행사일정 안내 및 설문 제공 서비스, 와피` 
 
 <br/>

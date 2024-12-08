@@ -17,7 +17,7 @@
 ## 🌱 Projects
 
 <img src="https://github.com/user-attachments/assets/251828d8-5b37-4c5e-90f5-f109dd485514" width=60 /> [WeSpot](https://github.com/YAPP-Github/WeSpot-Android), [WeSpot-Staff](https://github.com/wespot-bff/WeSpot-Staff) <sub>(2024.05 ~ )</sub>
-#### `청소년을 위한 문답 및 투표 서비스, 우리만의 공간 WeSpot`
+<br/>`청소년을 위한 문답 및 투표 서비스, 우리만의 공간 WeSpot`
 
 <br/>
 

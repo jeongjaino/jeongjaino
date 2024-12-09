@@ -1,4 +1,4 @@
-## 🥰 HellOOOOO I'm Jinho Jeong! <a href="https://hits.seeyoufarm.com"><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jeongjaino&count_bg=%2321B573&title_bg=%23555555&icon=android.svg&icon_color=%23A5CD39&title=hits&edge_flat=false"/></a>
+# Hello, I'm Jinho Jeong <a href="https://hits.seeyoufarm.com"><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jeongjaino&count_bg=%2321B573&title_bg=%23555555&icon=android.svg&icon_color=%23A5CD39&title=hits&edge_flat=false"/></a>
 - 적극적인 협업과 솔직한 소통을 중요하게 생각하며 업무에 임합니다.
 - 프로젝트에 책임감을 가지고, 지속적으로 유지보수하는 것을 좋아합니다. 
 - 새로운 기술에 관심이 많고, 이를 서비스에 적용하는 경험을 통해 배우는 것을 좋아합니다.
